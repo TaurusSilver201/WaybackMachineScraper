@@ -227,5 +227,4 @@ This project is intended for educational and research purposes. Users must compl
 - Fair use principles for research
 
 ---
-
 **⚠️ Important**: The Internet Archive is a valuable non-profit resource. Please use this tool responsibly and consider making a donation to support their mission if you find this data valuable for your research.
